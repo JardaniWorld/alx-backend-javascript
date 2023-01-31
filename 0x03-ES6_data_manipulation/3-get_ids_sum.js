@@ -1,6 +1,6 @@
 /*
  * File: 3-get_ids_sum.js
- * Auth: Yovo Koffi Vianney
+ * Auth: John Chukwuma Agbo
  */
 
 /**
